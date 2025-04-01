@@ -1,0 +1,25 @@
+Create the Person Class
+
+    Define attributes: Name, Gender, Address, Age.
+
+    Create a constructor to initialize and print these attributes.
+
+Create the Employee Class Extending Person
+
+    Add attributes: Empid, Salary, Company_name, Qualification.
+
+    Create a constructor to initialize and print these attributes, and call the Person constructor using super.
+
+Create the Teacher Class Extending Employee
+
+    Add attributes: Teacherid, Subject, Department.
+
+    Create a constructor to initialize and print these attributes, and call the Employee constructor using super.
+
+Implement the pgm8 Class with main Method
+
+    Declare variables: name, gender, address, company_name, qualification, subject, department, age, empid, salary, teacherid.
+
+    Use Scanner to read input values.
+
+    Create a Teacher instance with the input values to invoke constructors and print details.
